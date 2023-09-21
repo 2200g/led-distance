@@ -1,7 +1,7 @@
 #define trigPin 2
 #define echoPin 3
 
-#define ledPin 13
+#define ledPin 5
 
 long duration;
 int distance;
